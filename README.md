@@ -13,6 +13,14 @@ The project aims to build a linear regression model that will help boombikes rea
 The dataset being used is uploaded to the project, titled *day.csv* which lists out various factors that contributed to the bike sales in teh years 2018 and 2019.
 A lot of these factors are environmentally based, such as season, weather situation etc.
 
+## Technologies Used
+
+- sklearn
+- statsmodel.api
+- seaborn
+- pandas
+- matplotlib
+
 ## Conclusions
 - From the months categorical variable shown above, month_9 (September) has the highest positive coefficient - 0.4203, hence we can conclude that the bike sales   peak in the month of September
 
