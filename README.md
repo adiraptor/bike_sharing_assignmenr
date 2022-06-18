@@ -14,7 +14,11 @@ The dataset being used is uploaded to the project, titled *day.csv* which lists 
 A lot of these factors are environmentally based, such as season, weather situation etc.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- From the months categorical variable shown above, month_9 (September) has the highest positive coefficient - 0.4203, hence we can conclude that the bike sales   peak in the month of September
+
+- We can also see that windspeed has a significant negatvie coefficient (-0.1979), which means that an increase in
+  windspeed lead to decreased bike sales as people find it difficult to ride bikes
+
+- The weather situation also plays a significant role, wherein a light snow + heavy rain causes a dcrese in bike sales
+
+- We can also see that the sales were significantly less in 208 than in 2019, which may mean that in 2019 people came to know about boombikes through word of  mouth and increased sales
